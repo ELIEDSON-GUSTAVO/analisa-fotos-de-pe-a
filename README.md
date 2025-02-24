@@ -12,7 +12,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seuusuario/peças-3d-comparador.git
+git clone https://github.com/ELIEDSON-GUSTAVO/analisa-fotos-de-pe-a.git
 Instale as dependências:
 
 Use o gerenciador de pacotes pip para instalar as bibliotecas necessárias:
